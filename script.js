@@ -1,4 +1,7 @@
 $(function () {
+    var w = ["umbrella", "umpire", "unable", "uncle", "under", "under", "underdog", "undergo", "undergraduate", "underground",
+             "underneath", "underneath", "understand", "understanding", "undertake", "undertaker", "undo", "unemployed", "unemployment",
+             "unfortunate", "unfortunately", "unhappiness", "unhappy", "uniform", "uniform", "union", "unique", "unit", "unite"];
     var res = [];
     var out = "";
 
