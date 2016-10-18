@@ -1,6 +1,10 @@
 
 ## correct word suggestion and word completion script(jquery)
 
+###sample
+
+![gif image](https://github.com/umeshdhakar/word-suggestion/blob/master/correct.gif)
+
 ##how to use
 
  - include style.css.
