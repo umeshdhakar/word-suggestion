@@ -1,11 +1,11 @@
 
 ## correct word suggestion and word completion script(jquery)
 
-###sample
+### sample
 
 ![gif image](https://github.com/umeshdhakar/word-suggestion/blob/master/correct.gif)
 
-##how to use
+## how to use
 
  - include style.css.
  
@@ -22,4 +22,4 @@
  
  - choose a textfield or textarea and add attribute `id` with value="in"
  
- ##use up/dowm arrow key to select suggestion from list
+ ## use up/dowm arrow key to select suggestion from list
